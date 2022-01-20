@@ -23,7 +23,7 @@
 ----
 
 # Deploy
-- [Heroku](#Deploy-to-Heroku)
+- [Heroku](#Deploy-to-Heroku https://github.com/kikoyaja69/Ultroid)
 - [Local Machine](#Deploy-Locally)
 
 # Documentation 
